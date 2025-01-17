@@ -1,17 +1,22 @@
-# flutter_practice
+# 플러터 공부 - 닥터 나우 따라 만들기
+## 날짜
+- 2025-01-17
 
-A new Flutter project.
+## 목표
+- 메인 페이지
+- 내 건강
+- 진료 내역
+- 마이 페이지
 
-## Getting Started
+## 완성 이미지
+### 메인 페이지
+![메인 페이지](/assets/comple/main.png)
 
-This project is a starting point for a Flutter application.
+### 내 건강
+![내 건강](/assets/comple/my_health.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 진료 내역
+![진료 내역](/assets/comple/history.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Doctor_now_copy
+### 마이 페이지
+![마이 페이지](/assets/comple/my_info.png)
